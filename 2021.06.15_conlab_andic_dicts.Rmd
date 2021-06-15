@@ -218,6 +218,7 @@ $$\text{corpora frequency} = 0.002 + 0.906 \times \text{dictionary frequency}$$
 
 * More annotation for Chamalal and Botlikh
 * Better annotation for borrowings
+* Make corpora based on dictionary examples
 * Merge with [@mudrak20]?
 
 ## {}
