@@ -211,6 +211,12 @@ Obtained phonological distances does not correlate with phylogenetic distances.
 * However, in [@davidenko21] we compared dictionary and corpora frequencies of Andi, Botlikh and Bagvalal phonological segments and found a linear relation between them:
 
 $$\text{corpora frequency} = 0.002 + 0.906 \times \text{dictionary frequency}$$
+# Future plans
+## Future plans
+
+* More annotation for Chamalal and Botlikh
+* Better annotation for borrowings
+* Merge with [@mudrak20]?
 
 ## {}
 
