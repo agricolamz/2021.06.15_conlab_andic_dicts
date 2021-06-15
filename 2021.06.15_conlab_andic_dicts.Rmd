@@ -199,6 +199,11 @@ ggplot(segment(dd)) +
   theme_void()
 ```
 
+## Phonological distances: phylogenetic data
+
+![](images/01_Daniel_Filatov.png)
+
+Obtained phonological distances does not correlate with phylogenetic distances.
 
 ## {}
 
